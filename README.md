@@ -1,7 +1,7 @@
 # quiz TPA
 Quiz TPA Challenge using Javascript
 
-![ScreenShot](https://raw.github.com/{shiddiqeuy}/{quizTPA}/{master}/{quiz.jpg})
 
+![Settings Window](https://raw.github.com/ryanmaxwell/iArrived/master/Screenshots/Settings.png)
 
 Demo = https://jsfiddle.net/shiddiq/uy8z5xcd/
