@@ -4,3 +4,5 @@ I've found the solution to find the answer for trivia below using native javascr
 ![Settings Window](https://raw.githubusercontent.com/shiddiqeuy/quizTPA/master/quiz.jpg)
 
 Demo = https://jsfiddle.net/shiddiq/uy8z5xcd/
+
+My Solution: https://jsfiddle.net/hLde77jt/
