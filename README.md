@@ -1,6 +1,5 @@
 # quiz TPA
-Quiz TPA Challenge using Javascript
-
+I've found the solution to find the answer for trivia below using native javascript
 
 ![Settings Window](https://raw.githubusercontent.com/shiddiqeuy/quizTPA/master/quiz.jpg)
 
